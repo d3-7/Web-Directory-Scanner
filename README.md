@@ -1,7 +1,7 @@
-# Web-Directory-Scanner
+** Web-Directory-Scanner**
 The Web Directory Scanner is a Python application designed to scan a specified web directory and display the results in a user-friendly interface. The application uses the tkinter library for the graphical user interface (GUI) and the requests library to handle HTTP requests. The BeautifulSoup library is used for parsing HTML content.
 
-Features
+**Features**
 
 URL Input: Allows the user to input the target URL for scanning.
 Scan Button: Initiates the scanning process.
@@ -11,10 +11,12 @@ Search Functionality: Allows the user to search within the results.
 Adaptive Layout: The UI elements are centered and adaptive when the window is resized.
 Installation
 
-To run the Web Directory Scanner, you need to have Python installed on your system. Additionally, you need to install the required libraries. You can install the required libraries using pip: " pip install requests beautifulsoup4 " 
+To run the Web Directory Scanner, you need to have Python installed on your system. Additionally, you need to install the required libraries. You can install the required libraries using pip:
+**" pip install requests beautifulsoup4 " **
 
 
-Usage
+**Usage**
+
 1. Clone the Repository:
 git clone <repository_url>
 cd tool.py
